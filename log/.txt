@@ -1,0 +1,89 @@
+2022-04-20 23:00:35 INFO  TestBase:28 - Home page opened.
+2022-04-20 23:00:35 INFO  TestBase:30 - Chrome window maximized..
+2022-04-20 23:00:36 INFO  TestBase:39 - Page loaded successfully.
+2022-04-20 23:00:40 INFO  HomePage:30 - Done, Mouse hover on 'Kadın' from Menu
+2022-04-20 23:00:41 INFO  HomePage:36 - Clicked Blazer Ceket
+2022-04-20 23:00:43 INFO  CategoryPage:21 - Category page loaded successfully.
+2022-04-20 23:00:44 INFO  CategoryPage:32 - Products loaded with choosen size.
+2022-04-20 23:00:49 INFO  CategoryPage:44 - Clicked on product.
+2022-04-20 23:00:50 INFO  TestBase:39 - Page loaded successfully.
+2022-04-20 23:00:51 INFO  HomePage:42 - Clicked on Flycart icon.
+2022-04-20 23:00:53 INFO  HomePage:49 - Clicked on 'Go to Basket' button.
+2022-04-20 23:00:53 INFO  TestBase:39 - Page loaded successfully.
+2022-04-20 23:00:53 INFO  BasketPage:19 - Sepetim (1 Ürün) page is loaded succesfully..
+2022-04-20 23:00:53 INFO  BasketPage:27 - The product deleted
+2022-04-20 23:00:58 INFO  BasketPage:33 - The product deleted.Test ended succesfully.
+2022-04-20 23:00:58 INFO  BasketTest:32 - Chromedriver has been finished, test is over.
+2022-04-20 23:21:47 INFO  TestBase:28 - Home page opened.
+2022-04-20 23:21:47 INFO  TestBase:30 - Chrome window maximized..
+2022-04-20 23:21:48 INFO  TestBase:39 - Page loaded successfully.
+2022-04-20 23:21:53 INFO  HomePage:30 - Done, Mouse hover on 'Kadın' from Menu
+2022-04-20 23:21:56 INFO  HomePage:36 - Clicked Blazer Ceket
+2022-04-20 23:21:58 INFO  CategoryPage:21 - Category page loaded successfully.
+2022-04-20 23:21:58 INFO  CategoryPage:32 - Products loaded with choosen size.
+2022-04-20 23:22:04 INFO  CategoryPage:44 - Clicked on product.
+2022-04-20 23:22:04 INFO  TestBase:39 - Page loaded successfully.
+2022-04-20 23:22:06 INFO  HomePage:42 - Clicked on Flycart icon.
+2022-04-20 23:22:07 INFO  HomePage:49 - Clicked on 'Go to Basket' button.
+2022-04-20 23:22:07 INFO  TestBase:39 - Page loaded successfully.
+2022-04-20 23:22:08 INFO  BasketPage:21 - Sepetim (1 Ürün) page is loaded succesfully..
+2022-04-20 23:22:08 INFO  BasketPage:29 - The product deleted
+2022-04-20 23:22:12 INFO  BasketPage:35 - The product deleted. Test ended succesfully.
+2022-04-20 23:22:12 INFO  BasketTest:32 - Chromedriver has been finished, test is over.
+2022-04-20 23:46:59 INFO  TestBase:28 - Home page opened.
+2022-04-20 23:46:59 INFO  TestBase:30 - Chrome window maximized..
+2022-04-20 23:47:00 INFO  TestBase:39 - Page loaded successfully.
+2022-04-20 23:47:04 INFO  HomePage:22 - Done, Mouse hover on 'Kadın' from Menu
+2022-04-20 23:47:06 INFO  HomePage:28 - Clicked Blazer Ceket
+2022-04-20 23:47:07 INFO  CategoryPage:21 - Kadın Blazer Ceket selection loaded successfully.
+2022-04-20 23:47:08 INFO  CategoryPage:30 - S products loaded successfully.
+2022-04-20 23:47:13 INFO  CategoryPage:41 - Clicked on product.
+2022-04-20 23:47:14 INFO  TestBase:39 - Page loaded successfully.
+2022-04-20 23:47:14 INFO  ProductPage:20 - Regular Fit Suni Deri Blazer Ceket product loaded succesfully.
+2022-04-20 23:47:14 INFO  ProductPage:26 - Size selected.
+2022-04-20 23:47:15 INFO  ProductPage:32 - Product added to basket.
+2022-04-20 23:47:15 INFO  HomePage:34 - Clicked on Flycart icon.
+2022-04-20 23:47:17 INFO  HomePage:41 - Clicked on 'Go to Basket' button.
+2022-04-20 23:47:17 INFO  TestBase:39 - Page loaded successfully.
+2022-04-20 23:47:17 INFO  BasketPage:19 - Sepetim (1 Ürün) page is loaded succesfully..
+2022-04-20 23:47:18 INFO  BasketPage:26 - The product deleted
+2022-04-20 23:47:22 INFO  BasketPage:32 - The product deleted. Test ended succesfully.
+2022-04-20 23:47:22 INFO  BasketTest:33 - Chromedriver has been finished, test is over.
+2022-04-20 23:50:30 INFO  TestBase:28 - Home page opened.
+2022-04-20 23:50:30 INFO  TestBase:30 - Chrome window maximized..
+2022-04-20 23:50:31 INFO  TestBase:39 - Page loaded successfully.
+2022-04-20 23:50:34 INFO  HomePage:22 - Done, Mouse hover on 'Kadın' from Menu
+2022-04-20 23:50:36 INFO  HomePage:28 - Clicked Blazer Ceket
+2022-04-20 23:50:38 INFO  CategoryPage:21 - Kadın Blazer Ceket selection loaded successfully.
+2022-04-20 23:50:39 INFO  CategoryPage:30 - S products loaded successfully.
+2022-04-20 23:50:44 INFO  CategoryPage:41 - Clicked on product.
+2022-04-20 23:50:44 INFO  TestBase:39 - Page loaded successfully.
+2022-04-20 23:50:45 INFO  ProductPage:20 - Regular Fit Suni Deri Blazer Ceket product loaded succesfully.
+2022-04-20 23:50:45 INFO  ProductPage:26 - Size selected.
+2022-04-20 23:50:45 INFO  ProductPage:32 - Product added to basket.
+2022-04-20 23:50:46 INFO  HomePage:34 - Clicked on Flycart icon.
+2022-04-20 23:50:48 INFO  HomePage:41 - Clicked on 'Go to Basket' button.
+2022-04-20 23:50:48 INFO  TestBase:39 - Page loaded successfully.
+2022-04-20 23:50:48 INFO  BasketPage:19 - Sepetim (1 Ürün) page is loaded succesfully..
+2022-04-20 23:50:49 INFO  BasketPage:26 - The product deleted
+2022-04-20 23:50:53 INFO  BasketPage:32 - The product deleted. Test ended succesfully.
+2022-04-20 23:50:53 INFO  BasketTest:33 - Chromedriver has been finished, test is over.
+2022-04-21 01:00:32 INFO  TestBase:28 - Home page opened.
+2022-04-21 01:00:32 INFO  TestBase:30 - Chrome window maximized..
+2022-04-21 01:00:33 INFO  TestBase:39 - Page loaded successfully.
+2022-04-21 01:00:36 INFO  HomePage:22 - Done, Mouse hover on 'Kadın' from Menu
+2022-04-21 01:00:38 INFO  HomePage:28 - Clicked Blazer Ceket
+2022-04-21 01:00:39 INFO  CategoryPage:21 - Kadın Blazer Ceket selection loaded successfully.
+2022-04-21 01:00:40 INFO  CategoryPage:30 - S products loaded successfully.
+2022-04-21 01:00:46 INFO  CategoryPage:41 - Clicked on product.
+2022-04-21 01:00:46 INFO  TestBase:39 - Page loaded successfully.
+2022-04-21 01:00:47 INFO  ProductPage:20 - Regular Fit Suni Deri Blazer Ceket product loaded succesfully.
+2022-04-21 01:00:47 INFO  ProductPage:26 - Size selected.
+2022-04-21 01:00:47 INFO  ProductPage:32 - Product added to basket.
+2022-04-21 01:00:48 INFO  HomePage:34 - Clicked on Flycart icon.
+2022-04-21 01:00:49 INFO  HomePage:41 - Clicked on 'Go to Basket' button.
+2022-04-21 01:00:49 INFO  TestBase:39 - Page loaded successfully.
+2022-04-21 01:00:50 INFO  BasketPage:19 - Sepetim (1 Ürün) page is loaded succesfully..
+2022-04-21 01:00:51 INFO  BasketPage:26 - The product deleted
+2022-04-21 01:00:55 INFO  BasketPage:32 - The product deleted. Test ended succesfully.
+2022-04-21 01:00:55 INFO  BasketTest:32 - Chromedriver has been finished, test is over.
