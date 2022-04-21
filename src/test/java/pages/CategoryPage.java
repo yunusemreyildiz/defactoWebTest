@@ -13,8 +13,6 @@ import java.time.Duration;
 
 public class CategoryPage extends TestBase {
 
-    private static Logger log  = Logger.getLogger(CategoryPage.class);
-
     public static void checkTheCategoryPageLoad(){
         WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(5000));
         AssertJUnit.assertEquals(wait.until(ExpectedConditions.visibilityOfElementLocated(By.cssSelector("body > main > div > div:nth-child(1) > div > h1"))).getText(),"Kadın Blazer Ceket");

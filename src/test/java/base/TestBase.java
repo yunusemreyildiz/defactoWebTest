@@ -14,8 +14,7 @@ import java.util.concurrent.TimeUnit;
 public class TestBase {
 
     public static WebDriver driver;
-    private static Logger log  = Logger.getLogger(TestBase.class);
-
+    public static Logger log  = Logger.getLogger(TestBase.class);
 
 
     public static void setDriver(){

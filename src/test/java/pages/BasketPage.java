@@ -1,7 +1,6 @@
 package pages;
 
 import base.TestBase;
-import org.apache.log4j.Logger;
 import org.openqa.selenium.By;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
@@ -10,8 +9,6 @@ import org.testng.AssertJUnit;
 import java.time.Duration;
 
 public class BasketPage extends TestBase {
-
-    private static Logger log  = Logger.getLogger(BasketPage.class);
 
     public static void checkTheBasketPageLoad(){
         WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(5000));

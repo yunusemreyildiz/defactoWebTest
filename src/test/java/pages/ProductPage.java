@@ -12,8 +12,6 @@ import java.time.Duration;
 
 public class ProductPage extends TestBase {
 
-    private static Logger log  = Logger.getLogger(ProductPage.class);
-
     public static void checkTheProductPageLoad(){
         WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(5000));
         AssertJUnit.assertEquals(wait.until(ExpectedConditions.visibilityOfElementLocated(By.cssSelector("#product-main-container > div.product > div > div.product-card > div > div > div.col-12.col-md-4.col-lg-3.pr-md-0.product-card__right > div > div.product-card__content.product-card__section > div > div.product-card__details__left > h1"))).getText(),"Regular Fit Suni Deri Blazer Ceket");
